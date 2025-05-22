@@ -5,6 +5,8 @@ VisualStudioVersion = 17.11.35222.181
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EventsManagementsApp", "EventsManagementsApp.csproj", "{346B1B44-01E5-49A5-AC77-6D2332EAEC24}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EventsManagementsApp.Test", "..\EventsManagementsApp.Test\EventsManagementsApp.Test.csproj", "{41964286-CFD3-4626-BB63-76039F5CBF6A}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -15,6 +17,10 @@ Global
 		{346B1B44-01E5-49A5-AC77-6D2332EAEC24}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{346B1B44-01E5-49A5-AC77-6D2332EAEC24}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{346B1B44-01E5-49A5-AC77-6D2332EAEC24}.Release|Any CPU.Build.0 = Release|Any CPU
+		{41964286-CFD3-4626-BB63-76039F5CBF6A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{41964286-CFD3-4626-BB63-76039F5CBF6A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{41964286-CFD3-4626-BB63-76039F5CBF6A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{41964286-CFD3-4626-BB63-76039F5CBF6A}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
